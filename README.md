@@ -56,13 +56,13 @@ Bu proje tek bir uygulama üzerinden birden fazla işletmenin bağımsız olarak
 
 # 📸 Ekran Görüntüleri
 
-## Ana Menü
+## Menü
 
 ![Ana Menü](images/menu.png)
 
 ---
 
-## Menü (Alternatif Görünüm)
+## Menü
 
 ![Menü](images/menu2.png)
 
@@ -106,15 +106,15 @@ Bu proje tek bir uygulama üzerinden birden fazla işletmenin bağımsız olarak
 
 ## İşletme Yönetim Paneli
 
-![Admin](images/İşletmeAdminPaneli.png)
+![Admin](images/İsletmeAdminPaneli.png)
 
-![Admin2](images/İşletmeAdminPaneli2.png)
+![Admin2](images/İsletmeAdminPaneli2.png)
 
-![Admin3](images/İşletmeAdminPaneli3.png)
+![Admin3](images/İsletmeAdminPaneli3.png)
 
-![Admin4](images/İşletmeAdminPaneli4.png)
+![Admin4](images/İsletmeAdminPaneli4.png)
 
-![Admin5](images/İşletmeAdminPaneli5.png)
+![Admin5](images/İsletmeAdminPaneli5.png)
 
 ---
 
