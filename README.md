@@ -6,7 +6,7 @@ ASP.NET Core ile geliştirilmiş, restoran ve kafelerin QR kod üzerinden sipari
 
 Bu proje tek bir uygulama üzerinden birden fazla işletmenin bağımsız olarak yönetilebilmesine olanak sağlar.
 
-> ⚠️ Bu proje ticari olarak geliştirilmektedir. Kaynak kodu bu nedenle herkese açık olarak paylaşılmamaktadır.
+> ⚠️ Bu proje ticari olarak geliştirilmiştir. Kaynak kodu bu nedenle herkese açık olarak paylaşılmamaktadır.
 
 ---
 
