@@ -10,35 +10,72 @@ Bu proje tek bir uygulama üzerinden birden fazla işletmenin bağımsız olarak
 
 ---
 
-# 🚀 Başlıca Özellikler
+#  Özellikler
 
-- ✅ Çok İşletmeli (Multi-Tenant) Mimari
-- ✅ QR Menü Sistemi
-- ✅ Gerçek Zamanlı Sipariş Yönetimi (SignalR)
-- ✅ Mutfak Paneli
-- ✅ Servis Paneli
-- ✅ İşletme Yönetim Paneli
-- ✅ Super Admin Paneli
-- ✅ JWT Kimlik Doğrulama
-- ✅ Rol Bazlı Yetkilendirme
-- ✅ Ürün ve Kategori Yönetimi
-- ✅ Sipariş Takibi
-- ✅ Mobil Uyumlu Tasarım
+-  Multi-Tenant SaaS altyapısı
+-  QR Menü ve masadan sipariş
+-  Gerçek Zamanlı Sipariş Yönetimi (SignalR)
+-  Mutfak Paneli
+-  Servis Paneli
+-  İşletme Yönetim Paneli
+-  Super Admin Paneli
+-  JWT Kimlik Doğrulama
+-  Rol Bazlı Yetkilendirme
+-  Ürün ve Kategori Yönetimi
+-  Sipariş Takibi
+-  Mobil Uyumlu Tasarım
+-  Rate Limiting & Serilog
+-  MSSQL + Entity Framework Core
+-  HTML
+-  CSS
+-  JavaScript
+-  Bootstrap
+-  Health Checks
+-  Backup / Restore
+-  N-Tier Architecture
+-  k6 Load Test
 
----
 
-# 🛠 Kullanılan Teknolojiler
 
-- ASP.NET Core MVC
-- C#
-- Entity Framework Core
-- SQL Server
-- SignalR
-- JWT Authentication
-- Bootstrap
-- HTML
-- CSS
-- JavaScript
+#  Müşteri
+
+- QR ile menüye erişim
+- Sepet
+- Sipariş oluşturma
+- Sipariş durumu takibi
+
+#  Mutfak
+
+- Yeni siparişleri anlık görüntüleme
+- Hazırlanıyor
+- Hazır
+- SignalR ile servis ekranına aktarım
+
+#  Servis
+
+- Hazır siparişler
+- Garson çağrıları
+- Teslim süreci
+
+#  İşletme Admini
+
+- Dashboard
+- Ürün yönetimi
+- Kategori yönetimi
+- Masa yönetimi
+- QR oluşturma
+- Personel yönetimi
+- İşletme ayarları
+- Satış raporları
+- Menüden Sipariş alımını açıp kapatma
+
+#  Super Admin
+
+- Tenant oluşturma
+- İşletme yönetimi
+- Kullanıcı yönetimi
+- Merkezi raporlama
+
 
 ---
 
@@ -52,7 +89,7 @@ Bu proje tek bir uygulama üzerinden birden fazla işletmenin bağımsız olarak
 6. SignalR ile sipariş servis ekranına aktarılır.
 7. SignalR bağlantısı kesilse bile siparişler veritabanında tutulduğu için bağlantı tekrar kurulduğunda sistem kaldığı yerden devam eder.
 
----
+
 
 # 📸 Ekran Görüntüleri
 
@@ -130,17 +167,6 @@ Bu proje tek bir uygulama üzerinden birden fazla işletmenin bağımsız olarak
 
 ---
 
-# 💡 Teknik Özellikler
-
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- SignalR
-- JWT Authentication
-- Multi-Tenant Mimari
-- Responsive Tasarım
-
----
 
 # 🔒 Kaynak Kodu
 
