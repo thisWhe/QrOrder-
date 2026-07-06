@@ -1,4 +1,4 @@
-# 🍽️ QrOrder
+#  QrOrder
 
 # Çok İşletmeli QR Restoran Sipariş Sistemi
 
